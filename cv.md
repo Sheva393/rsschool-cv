@@ -6,4 +6,4 @@ HTML/CSS,Javascript, React,Redux
 https://github.com/Sheva393
 redev Startup : https://github.com/Sheva393/Redev-CRM
 Student of BNTU, Redev courses , Minsk{JSON} Meetups
-A2+
+A2+++
